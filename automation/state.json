@@ -76,7 +76,9 @@
   "4619813333": 2
  },
  "used_images": {},
- "new_queue": [],
+ "new_queue": [
+  "4620697069"
+ ],
  "known_listing_ids": [
   "4527817975",
   "4528184703",
@@ -190,7 +192,8 @@
   "4619808605",
   "4619813333",
   "4619823562",
-  "4619825642"
+  "4619825642",
+  "4620697069"
  ],
  "scheduled_through": "2026-12-02",
  "slots_pt": [
@@ -211,5 +214,6 @@
   "Kids Birthday Party Invitations",
   "Neon Glow Party Ideas",
   "Kids Birthday Games"
- ]
+ ],
+ "last_run_note": "2026-11-19: no empty slots (scheduled through Dec 2, window to Nov 26). New listing 4620697069 (purple Monster Truck 5x7) queued. batch5 not uploaded yet: Mac pin folder access awaiting approval."
 }
