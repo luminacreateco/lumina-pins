@@ -56,27 +56,46 @@
   "4604600817": 1,
   "4547243837": 3,
   "4598212657": 1,
-  "4596295498": 2,
+  "4596295498": 3,
   "4597840444": 1,
-  "4597448363": 1,
+  "4597448363": 2,
   "4545741678": 3,
   "4588293876": 1,
   "4587382828": 2,
   "4586731741": 1,
-  "4585735319": 1,
+  "4585735319": 2,
   "4583741002": 4,
   "4528379030": 1,
-  "4578113745": 1,
+  "4578113745": 2,
   "4545876671": 3,
   "4528200024": 1,
-  "4537147194": 1,
+  "4537147194": 2,
   "4619823562": 2,
   "4619825642": 2,
   "4619808605": 2,
-  "4619813333": 2
+  "4619813333": 2,
+  "4591509414": 1,
+  "4536388460": 1,
+  "4592168817": 1,
+  "4543513778": 1,
+  "4536769900": 1,
+  "4590834212": 1,
+  "4601627457": 1,
+  "4591926702": 1,
+  "4601675660": 1,
+  "4528557143": 1,
+  "4528196217": 1
  },
  "used_images": {},
  "new_queue": [
+  "4622461278",
+  "4622426203",
+  "4622451524",
+  "4622395799",
+  "4622393781",
+  "4622234708",
+  "4622147344",
+  "4622139617",
   "4620697069"
  ],
  "known_listing_ids": [
@@ -193,7 +212,15 @@
   "4619813333",
   "4619823562",
   "4619825642",
-  "4620697069"
+  "4620697069",
+  "4622139617",
+  "4622147344",
+  "4622234708",
+  "4622393781",
+  "4622395799",
+  "4622426203",
+  "4622451524",
+  "4622461278"
  ],
  "scheduled_through": "2026-12-02",
  "slots_pt": [
@@ -201,8 +228,8 @@
   "14:00",
   "19:00"
  ],
- "pending_csv": "lumina-pins-batch5-nov27-dec2.csv (16 pins, Nov 27-Dec 2) - upload first, from the Mac pin folder",
- "last_upload_run": null,
+ "pending_csv": null,
+ "last_upload_run": "2026-11-23",
  "last_shopping_check": "2026-11-23",
  "boards": [
   "Animated Video Invitations",
@@ -215,5 +242,5 @@
   "Neon Glow Party Ideas",
   "Kids Birthday Games"
  ],
- "last_run_note": "2026-11-19: no empty slots (scheduled through Dec 2, window to Nov 26). New listing 4620697069 (purple Monster Truck 5x7) queued. batch5 not uploaded yet: Mac pin folder access awaiting approval."
+ "last_run_note": "2026-11-23: uploaded pending batch5 (16 pins, Nov 27 7PM - Dec 2 7PM PT) via bulk CSV, Pinterest said upload successful. No empty slots (scheduled through Dec 2, window to Nov 30). 8 new listings found and queued (4622...): pin them first next run. 4620697069 (purple Monster Truck 5x7) is no longer listed in the shop: only pin it if it is back."
 }
