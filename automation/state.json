@@ -229,7 +229,7 @@
   "19:00"
  ],
  "pending_csv": null,
- "last_upload_run": "2026-11-23",
+ "last_upload_run": "2026-11-25",
  "last_shopping_check": "2026-11-25",
  "boards": [
   "Animated Video Invitations",
@@ -242,5 +242,5 @@
   "Neon Glow Party Ideas",
   "Kids Birthday Games"
  ],
- "last_run_note": "2026-11-23: uploaded pending batch5 (16 pins, Nov 27 7PM - Dec 2 7PM PT) via bulk CSV, Pinterest said upload successful. No empty slots (scheduled through Dec 2, window to Nov 30). 8 new listings found and queued (4622...): pin them first next run. 4620697069 (purple Monster Truck 5x7) is no longer listed in the shop: only pin it if it is back."
+ "last_run_note": "2026-11-25: no empty slots (scheduled through Dec 2 = 7-day window), nothing uploaded. Shop check pages 1-4: 121 listings, no new ids. new_queue (9 x 4622.../4620697069) still waiting for next run with open slots (Dec 3 onward). 4620697069 still not listed in the shop: skip unless it returns."
 }
