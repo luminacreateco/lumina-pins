@@ -84,17 +84,23 @@
   "4591926702": 1,
   "4601675660": 1,
   "4528557143": 1,
-  "4528196217": 1
+  "4528196217": 1,
+  "4622461278": 1,
+  "4625739962": 1,
+  "4622147344": 1
  },
- "used_images": {},
+ "used_images": {
+  "8886237954": "4622461278",
+  "8928196438": "4625739962",
+  "8898155642": "4622147344"
+ },
  "new_queue": [
-  "4622461278",
+  "4625739962",
   "4622426203",
   "4622451524",
   "4622395799",
   "4622393781",
   "4622234708",
-  "4622147344",
   "4622139617",
   "4620697069"
  ],
@@ -220,16 +226,17 @@
   "4622395799",
   "4622426203",
   "4622451524",
-  "4622461278"
+  "4622461278",
+  "4625739962"
  ],
- "scheduled_through": "2026-12-02",
+ "scheduled_through": "2026-12-03",
  "slots_pt": [
   "08:00",
   "14:00",
   "19:00"
  ],
  "pending_csv": null,
- "last_upload_run": "2026-11-25",
+ "last_upload_run": "2026-11-26",
  "last_shopping_check": "2026-11-26",
  "boards": [
   "Animated Video Invitations",
@@ -242,5 +249,5 @@
   "Neon Glow Party Ideas",
   "Kids Birthday Games"
  ],
- "last_run_note": "2026-11-25: no empty slots (scheduled through Dec 2 = 7-day window), nothing uploaded. Shop check pages 1-4: 121 listings, no new ids. new_queue (9 x 4622.../4620697069) still waiting for next run with open slots (Dec 3 onward). 4620697069 still not listed in the shop: skip unless it returns."
+ "last_run_note": "2026-11-26: uploaded 3 pins for Dec 3 (gaming boy mobile 4622461278 8am, NEW woodland baby shower 4625739962 2pm, pink gaming girl mobile 4622147344 7pm). Pinterest said upload successful. 4625739962 stays in new_queue for its 2nd pin (scene photo). Rest of new_queue are all gaming listings: alternate them with other themes. 4620697069 still not in shop."
 }
